@@ -153,22 +153,22 @@ video.bg-video {
   }
 }
 
-.suse-100 {
-  font-family: "SUSE", sans-serif;
+.inter-100 {
+  font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
 }
 
-.suse-400 {
-  font-family: "SUSE", sans-serif;
+.inter-400 {
+  font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
 
-.suse-700 {
-  font-family: "SUSE", sans-serif;
+.inter-700 {
+  font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
